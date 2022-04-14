@@ -26,5 +26,13 @@ th, .table {
   /* To identify any selector easily, use outline: 1px solid red; */
   td, th {
     border-bottom: 1px solid #d3d3d3;
-    padding: .5em:
+    padding: .5em;
+  }
+  tr:nth-child(even) {
+    background-color: #eee;
+  }
+
+/* mouse over rows*/
+ tr:hover {
+   background-color: pink;
   }
