@@ -32,7 +32,7 @@ th, .table {
     background-color: #eee;
   }
 
-/* mouse over rows*/
+/* mouse over the rows*/
  tr:hover {
    background-color: pink;
   }
