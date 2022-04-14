@@ -5,7 +5,7 @@ h1 {
   }
 
 table {
-  width: 50%;
+    width: 50%;
     margin-left: auto;
     margin-right: auto; 
     border-collapse: collapse;
@@ -17,7 +17,15 @@ th, .table {
     color: #1db954;
     background-color: #d3d3d3;
   }
+
   img {
     height: 100px;
     width: 100px;
+  }
+
+  /* To identify any selector easily, use outline: 1px solid red; */
+  td, th {
+    outline: 1px solid red;
+    border-bottom: 1px solid #d3d3d3;
+    padding: .5em:
   }
