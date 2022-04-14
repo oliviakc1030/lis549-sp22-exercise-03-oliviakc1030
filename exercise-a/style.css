@@ -25,7 +25,6 @@ th, .table {
 
   /* To identify any selector easily, use outline: 1px solid red; */
   td, th {
-    outline: 1px solid red;
     border-bottom: 1px solid #d3d3d3;
     padding: .5em:
   }
