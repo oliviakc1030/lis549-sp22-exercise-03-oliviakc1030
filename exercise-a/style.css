@@ -11,7 +11,7 @@ table {
     border-collapse: collapse;
 }
 
-th, .table {
+th {
     height: 2rem;
     text-align: left;
     color: #1db954;
